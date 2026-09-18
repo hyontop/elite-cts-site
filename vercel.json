@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { "source": "/about",   "destination": "/",         "permanent": true },
+    { "source": "/press",   "destination": "/",         "permanent": true },
+    { "source": "/work-1",  "destination": "/",         "permanent": true },
+    { "source": "/courses", "destination": "/#courses", "permanent": true },
+    { "source": "/contact", "destination": "/#contact", "permanent": true }
+  ]
+}
